@@ -1,6 +1,9 @@
 body{
     margin: 0;
-    background: cyan;
+    background: #1abc9c;
     text-align: center;
+    color: white;
+    padding: 80px;
+
 }
 
