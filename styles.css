@@ -7,3 +7,7 @@ body{
 
 }
 
+.sizing{
+    display:inline-block; 
+    height:1em; width:auto;
+}
